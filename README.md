@@ -1,5 +1,5 @@
 # SelfAvoidingRandomWalk
-This is my implementation of Self-avoiding random walk in Python using the Monte-Carlo method. It receives three arguments from the user (1) the size of the lattice, (2) the number of trials, and (3) a zero or one value to determine whether it should visualize the process on the screen or not.
+This is my implementation of Self-avoiding random walk in Python using the Monte-Carlo method. It receives three arguments from the user (1) the size of the lattice, (2) the number of trials, and (3) a zero or one value to determine whether it should show the process on the screen or not.
 It prints the movements of the random walker on the console.
 
 The implementation uses "color.py" and "stddraw.py" from [here](https://introcs.cs.princeton.edu/python/code/).
